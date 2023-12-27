@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 🙆‍♀️⭐
+  - I’m currently studying at Universiti Teknologi Malaysia (UTM)🎓 
+  - I’m a computer science student with a major in data engineering👩‍💻
 
 <!--
 **firzanabadrus/firzanabadrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
