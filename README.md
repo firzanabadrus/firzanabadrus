@@ -7,8 +7,8 @@ Student at UTM
 I like to learn something new
 
 * 🌍  I'm based in Johor
-* ✉️  You can contact me at [firzanabadrus@gmail.com](mailto:firzanabadrus@gmail.com)
-* 🧠  I'm learning Computer Science (Data Engineering)
+* 🖥  You can contact me at [firzanabadrus@gmail.com](mailto:firzanabadrus@gmail.com)
+* 🎓  I'm learning Computer Science (Data Engineering)
 * ⚡  Data Scientist to be
 
 ### Skills
