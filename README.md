@@ -8,10 +8,10 @@ _First-year student at UTM_
 
 * 📍  I'm based in Johor
 * 📧  You can contact me at [firzanabadrus@gmail.com](mailto:firzanabadrus@gmail.com)
-* 🎓  I'm studying Computer Science (Data Engineering)
-* 
+* 🎓  I'm studying Computer Science (Data Engineering) 
 
-.
+<br>
+<br>
 
 **EDUCATION BACKGROUND :**
 
@@ -23,7 +23,7 @@ _(2022-2023)_ - JOHOR MATRICULATION COLLEGE | CGPA 4.00
 
 _(2023- now)_ - UNIVERSITY TECHNOLOGY MALAYSIA | 
 
-. 
+<br>
 
 **POSITION :**
 
@@ -31,6 +31,9 @@ _(2023- now)_ - UNIVERSITY TECHNOLOGY MALAYSIA |
 - Student figure in primary school
 - Vice precident in Multimedia Club highschool
 - Vice precident in volleyball club in matriculation
+
+<br>
+<br>
 
 ### Skills
   
