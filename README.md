@@ -1,4 +1,4 @@
-Hi I'm NUR FIRZANA ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi I'm NUR FIRZANA BINTI BADRUS HISHAM ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===============================================================================================================================
 
 _First-year student at UTM_
@@ -9,7 +9,28 @@ _First-year student at UTM_
 * 📍  I'm based in Johor
 * 📧  You can contact me at [firzanabadrus@gmail.com](mailto:firzanabadrus@gmail.com)
 * 🎓  I'm studying Computer Science (Data Engineering)
+* 
 
+.
+
+**EDUCATION BACKGROUND :**
+
+_(2011-2016)_ - SK PARIT SETONGKAT | UPSR 6A
+
+_(2017-2021)_ - SMKA MAAHAD MUAR | PT3 10A2B | SPM 8A4B
+
+_(2022-2023)_ - JOHOR MATRICULATION COLLEGE | CGPA 4.00
+
+_(2023- now)_ - UNIVERSITY TECHNOLOGY MALAYSIA | 
+
+. 
+
+**POSITION :**
+
+- School prefect in primary school
+- Student figure in primary school
+- Vice precident in Multimedia Club highschool
+- Vice precident in volleyball club in matriculation
 
 ### Skills
   
