@@ -15,25 +15,32 @@ _First-year student at UTM_
 
 **EDUCATION BACKGROUND :**
 
-_(2011-2016)_ - SK PARIT SETONGKAT | UPSR 6A
+_(2011 - 2016)_ - SK PARIT SETONGKAT  
 
-_(2017-2021)_ - SMKA MAAHAD MUAR | PT3 10A2B | SPM 8A4B
+_(2017 - 2021)_ - SMKA MAAHAD MUAR 
 
-_(2022-2023)_ - JOHOR MATRICULATION COLLEGE | CGPA 4.00
+_(2022 - 2023)_ - JOHOR MATRICULATION COLLEGE  
 
-_(2023- now)_ - UNIVERSITY TECHNOLOGY MALAYSIA | 
+_(2023 - now)_ - UNIVERSITY TECHNOLOGY MALAYSIA  
 
 <br>
 
 **POSITION :**
 
-- School prefect in primary school
-- Student figure in primary school
-- Vice precident in Multimedia Club highschool
-- Vice precident in volleyball club in matriculation
+- School prefect in primary school (2013-2016)
+- Student figure in primary school (2016)
+- Vice precident in Multimedia Club (2021)
+- Vice precident in volleyball club in matriculation (2023)
 
 <br>
-<br>
+
+**CERTIFICATE :**
+
+- UPSR (2016)   |  6A
+- PT3 (2019)    |  8A2B
+- SPM (2022)    |  10A2B
+- MATRIC (2023) | CGPA 4.00
+- MUET (2023)   | BAND 3.5
 
 ### Skills
   
@@ -41,6 +48,10 @@ _(2023- now)_ - UNIVERSITY TECHNOLOGY MALAYSIA |
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 </p>
 
+### OTHERS
+* Microsoft
+* Canva
+* Capcut
 
 ### Socials
 
