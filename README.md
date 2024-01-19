@@ -64,6 +64,15 @@ _(2011 - 2016)_ - SK PARIT SETONGKAT
 * Capcut
 * Microsoft
 
+### Projects :
+ - [ ] e-Portfolio
+  
+ - [x] Case Study : Student Correct Answers
+  
+ - [ ] Elevator Controller System
+
+<br>
+
 ### Socials
 
 <p align="left">
