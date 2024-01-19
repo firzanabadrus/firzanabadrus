@@ -7,9 +7,9 @@ _First-year student at UTM_  ![Visitors](https://api.visitorbadge.io/api/visitor
 >I like to learn something new but it will take some time¬
 
 * 📍  I'm based in Johor
-* 📧  You can contact me at [firzanabadrus@gmail.com](mailto:firzanabadrus@gmail.com)
-* 🎓  I'm studying Computer Science (Data Engineering)
-* <3 editing. You can take a look at my [Youtube](https://www.youtube.com/channel/UCkmqGhFS8CXs_pXc5eV2d_Q) channel or [TikTok](
+* 📧 You can contact me at [firzanabadrus@gmail.com](mailto:firzanabadrus@gmail.com)
+* 🎓 I'm studying Computer Science (Data Engineering) 
+* 📸 I love taking videos. You can take a look at my [Youtube](https://www.youtube.com/channel/UCkmqGhFS8CXs_pXc5eV2d_Q) channel or [TikTok](https://www.tiktok.com/@pij0nn?lang=en)
 * 👾  Currently explore
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
@@ -19,15 +19,15 @@ _First-year student at UTM_  ![Visitors](https://api.visitorbadge.io/api/visitor
 <br>
 
 
-**EDUCATION BACKGROUND :**
+**EDUCATION BACKGROUND :**  
 
-_(2011 - 2016)_ - SK PARIT SETONGKAT  
+_(2023 - now)_ - UNIVERSITY TECHNOLOGY MALAYSIA  
+
+_(2022 - 2023)_ - JOHOR MATRICULATION COLLEGE
 
 _(2017 - 2021)_ - SMKA MAAHAD MUAR 
 
-_(2022 - 2023)_ - JOHOR MATRICULATION COLLEGE  
-
-_(2023 - now)_ - UNIVERSITY TECHNOLOGY MALAYSIA  
+_(2011 - 2016)_ - SK PARIT SETONGKAT
 
 <br>
 
@@ -42,14 +42,14 @@ _(2023 - now)_ - UNIVERSITY TECHNOLOGY MALAYSIA
 
 **CERTIFICATE :**
 
-| No  | EXAM                                   | YEAR    | RESULT            |                                      
-|-----|----------------------------------------|----------|------------------|
-| 1   | UPSR                                   | 2016    | 6A                | 
-| 2   | PT3                                    | 2019    | 10A 2B            | 
-| 3   | SPM                                    | 2022    | 8A 2B             | 
-| 4   | MATRICULATION                          | 2023    | 4.00              | 
-| 5   | MUET                                   | 2022    | 3.5               |
-| 6   | DEGREE SEM 1                           | 2024    |                   | 
+| EXAM                                   | YEAR    | RESULT            |                                      
+|----------------------------------------|---------|-------------------|
+| DEGREE                                 | 2024    |                   |
+| MUET                                   | 2022    | 3.5               | 
+| MATRICULATION                          | 2022    | 4.00              | 
+| SPM                                    | 2021    | 8A 4B             | 
+| PT3                                    | 2019    | 10A 2B            |
+| UPSR                                   | 2016    | 6A                | 
 
 
 ### Skills
@@ -59,7 +59,7 @@ _(2023 - now)_ - UNIVERSITY TECHNOLOGY MALAYSIA
 </p>
 
 
-### OTHERS
+### Others
 * Canva
 * Capcut
 * Microsoft
@@ -102,7 +102,15 @@ _(2023 - now)_ - UNIVERSITY TECHNOLOGY MALAYSIA
  <p align="left">
   <!-- ... (existing social media icons) ... -->
 
- 
+<br>
+
+ ### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/firzanabadrus"><img src="https://github-readme-stats.vercel.app/api?username=firzanabadrus&show_icons=true&hide=stars,prs,issues,contribs&title_color=64748b&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="firzanabadrus's GitHub stats" /></a>
+
+<a href="https://github.com/firzanabadrus" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firzanabadrus&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
