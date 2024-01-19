@@ -4,13 +4,19 @@ Hi I'm NUR FIRZANA BINTI BADRUS HISHAM ![](https://user-images.githubusercontent
 _First-year student at UTM_  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffirzanabadrus%2Ffirzanabadrus&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 ---------------------------------
 
->I like to learn something new but it will take some time¬
+>I like to learn something new but it will take some time
+
+<br>
+
+ -------> [**MY E-PORTFOLIO**](https://firzanabadrus.github.io/) <--------
+ 
+ <br>
 
 * 📍  I'm based in Johor
 * 📧 You can contact me at [firzanabadrus@gmail.com](mailto:firzanabadrus@gmail.com)
 * 🎓 I'm studying Computer Science (Data Engineering) 
-* 📸 I love taking videos. You can take a look at my [Youtube](https://www.youtube.com/channel/UCkmqGhFS8CXs_pXc5eV2d_Q) channel or [TikTok](https://www.tiktok.com/@pij0nn?lang=en)
-* 👾  Currently explore
+* 📸 I love taking videos. You can take a look at my [Youtube](https://www.youtube.com/channel/UCkmqGhFS8CXs_pXc5eV2d_Q) channel
+* 👾  Currently explore : _
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
@@ -19,7 +25,7 @@ _First-year student at UTM_  ![Visitors](https://api.visitorbadge.io/api/visitor
 <br>
 
 
-**EDUCATION BACKGROUND :**  
+**📖 EDUCATION BACKGROUND :**  
 
 _(2023 - now)_ - UNIVERSITY TECHNOLOGY MALAYSIA  
 
@@ -40,16 +46,16 @@ _(2011 - 2016)_ - SK PARIT SETONGKAT
 
 <br>
 
-**CERTIFICATE :**
+**📃 CERTIFICATE :**
 
 | EXAM                                   | YEAR    | RESULT            |                                      
 |----------------------------------------|---------|-------------------|
-| DEGREE                                 | 2024    |                   |
-| MUET                                   | 2022    | 3.5               | 
-| MATRICULATION                          | 2022    | 4.00              | 
+| UPSR                                   | 2016    | 6A                |
+| PT3                                    | 2019    | 10A 2B            | 
 | SPM                                    | 2021    | 8A 4B             | 
-| PT3                                    | 2019    | 10A 2B            |
-| UPSR                                   | 2016    | 6A                | 
+| MUET                                   | 2022    | 3.5               | 
+| MATRICULATION                          | 2023    | 4.00              |
+| DEGREE                                 | 2024    |                   | 
 
 
 ### Skills
@@ -64,8 +70,10 @@ _(2011 - 2016)_ - SK PARIT SETONGKAT
 * Capcut
 * Microsoft
 
-### Projects :
- - [ ] e-Portfolio
+  <br>
+
+### 📁 Projects :
+ - [x] e-Portfolio
   
  - [x] Case Study : Student Correct Answers
   
