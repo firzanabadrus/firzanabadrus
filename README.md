@@ -75,11 +75,10 @@ _(2011 - 2016)_ - SK PARIT SETONGKAT
   <br>
 
 ### 📁 Projects :
- - [x] e-Portfolio
-  
+ - [x] Design Thinking [here](https://github.com/users/Yatib/projects/21)
+ - [x] e-Portfolio [here](https://firzanabadrus.github.io/)
  - [x] Case Study: Students Correct Answers
-  
- - [ ] Elevator Controller System
+ - [ ] Elevator Controller System [here](https://github.com/users/firzanabadrus/projects/3)
 
 <br>
 
