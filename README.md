@@ -81,7 +81,7 @@ _(2011 - 2016)_ - SK PARIT SETONGKAT
  - [x] Design Thinking 
  - [x] e-Portfolio 
  - [x] Case Study: Students Correct Answers
- - [x] Elevator Controller System [here](https://github.com/users/firzanabadrus/projects/3)
+ - [x] Elevator Controller System - [work progress](https://github.com/users/firzanabadrus/projects/3)
 
 <br>
 
