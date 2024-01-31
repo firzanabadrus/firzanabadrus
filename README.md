@@ -104,7 +104,7 @@ _(2011 - 2016)_ - SK PARIT SETONGKAT
     </picture>
   </a>
   
-  <a href="https://www.linkedin.com/in/firzana-badrus" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/nur-firzana1610" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
