@@ -59,7 +59,7 @@ _(2011 - 2016)_ - SK PARIT SETONGKAT
 | SPM                                    | 2021    | 8A                | 
 | MUET                                   | 2022    | 3.5               | 
 | MATRICULATION                          | 2023    | 4.00              |
-| DEGREE                                 | 2024    |                   | 
+| DEGREE                                 | 2024    |                   |         
 
 
 ### Skills
@@ -80,8 +80,8 @@ _(2011 - 2016)_ - SK PARIT SETONGKAT
  - [x] Design Thinking 
  - [x] e-Portfolio 
  - [x] Case Study: Students Correct Answers
- - [x] Elevator Controller System - [work progress](https://github.com/users/firzanabadrus/projects/3)
-
+ - [x] Elevator Controller System
+       
 <br>
 
 ### Socials
