@@ -4,8 +4,6 @@ Hi I'm NUR FIRZANA BINTI BADRUS HISHAM ![](https://user-images.githubusercontent
 _Computer Science student_ 
 ---------------------------------
 I am a quiet person, but once you get to know me, you will find I am really friendly. I am great at working in teams and always up for good cooperation. I love learning new things and picking up new skills. I am pretty good at managing my time, and I like to keep things neat and organized. Right now, I am diving into the world of computer science and enjoying every bit of it !
- 
-
   
  > Love to learn something new but it will take some time¬
 
@@ -77,7 +75,7 @@ _(2011 - 2016)_ - SK PARIT SETONGKAT
   <br>
 
 ### 📁 Projects :
- - [x] Design Thinking 
+ - [x] Design Thinking Project
  - [x] e-Portfolio 
  - [x] Case Study: Students Correct Answers
  - [x] Elevator Controller System
