@@ -8,8 +8,6 @@ Hi I'm NUR FIRZANA BINTI BADRUS HISHAM ![](https://user-images.githubusercontent
  
 <br>
 
-<br>
-
 *  [**MY E-PORTFOLIO**](https://firzanabadrus.github.io/)
 * 📍  I'm based in Johor
 * 📧 You can contact me at [firzanabadrus@gmail.com](mailto:firzanabadrus@gmail.com)
