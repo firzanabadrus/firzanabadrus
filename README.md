@@ -1,12 +1,11 @@
 Hi I'm NUR FIRZANA BINTI BADRUS HISHAM ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-===============================================================================================================================
+====================================================================================================================================================================================================================
+> Computer Science student at [Universiti Teknologi Malaysia](https://www.utm.my/)
 
-_Computer Science student_ 
----------------------------------
+<br>
+
  I am great at working in teams and always up for good cooperation. I love learning new things and picking up new skills. I am pretty good at managing my time, and I like to keep things neat and organized. Right now, I am diving into the world of computer science and enjoying every bit of it !
-  
  
-
 <br>
 
 <br>
