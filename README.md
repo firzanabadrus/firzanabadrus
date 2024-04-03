@@ -12,7 +12,7 @@ Hi I'm NUR FIRZANA BINTI BADRUS HISHAM ![](https://user-images.githubusercontent
 * 📍  I'm based in Johor
 * 📧 You can contact me at [firzanabadrus@gmail.com](mailto:firzanabadrus@gmail.com)
 * 🎓 I'm studying Computer Science (Data Engineering) with Honours 
-* 📸 I love taking videos. You can take a look at my [Youtube](https://www.youtube.com/channel/UCkmqGhFS8CXs_pXc5eV2d_Q) channel
+* 📸 I love taking videos. 
 * 👾  Currently explore : _
   
 <p align="left">
