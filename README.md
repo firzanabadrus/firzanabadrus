@@ -53,8 +53,7 @@ _(2011 - 2016)_ - SK PARIT SETONGKAT
 | PT3                                    | 2019    | 10A               | 
 | SPM                                    | 2021    | 8A                | 
 | MUET                                   | 2022    | 3.5               | 
-| MATRICULATION                          | 2023    | 4.00              |
-| DEGREE                                 | 2024    |                   |         
+| MATRICULATION                          | 2023    | 4.00              |       
 
 
 ### Skills
@@ -76,6 +75,8 @@ _(2011 - 2016)_ - SK PARIT SETONGKAT
  - [x] e-Portfolio 
  - [x] Case Study: Students Correct Answers
  - [x] Elevator Controller System
+ - [ ] Descriptive Statistics
+ - [ ] 2D Graphical Game
        
 <br>
 
