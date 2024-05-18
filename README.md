@@ -62,16 +62,6 @@ _(2017 - 2021)_ - SMKA MAAHAD MUAR
 ### Others
 * Canva
 * Capcut
-
-  <br>
-
-### 📁 Projects :
- - [x] Design Thinking Project
- - [x] e-Portfolio 
- - [x] Case Study: Students Correct Answers
- - [x] Elevator Controller System
- - [x] Descriptive Statistics
- - [ ] 2D Graphical Game
        
 <br>
 
