@@ -11,7 +11,7 @@ Hi I'm NUR FIRZANA BINTI BADRUS HISHAM ![](https://user-images.githubusercontent
 * MY [E-PORTFOLIO](https://firzanabadrus.github.io/)
 * 📍  I'm based in Johor
 * 📧 You can contact me at [firzanabadrus@gmail.com](mailto:firzanabadrus@gmail.com)
-* 🎓 I'm studying Computer Science (Data Engineering) with Honours 
+* 🎓 I'm currently studying Computer Science (Data Engineering) with Honours 
 * 📸 I love taking pictures and videos. 
 * 👾  Currently explore : _
   
@@ -32,8 +32,6 @@ _(2022 - 2023)_ - JOHOR MATRICULATION COLLEGE
 
 _(2017 - 2021)_ - SMKA MAAHAD MUAR 
 
-_(2011 - 2016)_ - SK PARIT SETONGKAT
-
 <br>
 
 **POSITION :**
@@ -48,9 +46,7 @@ _(2011 - 2016)_ - SK PARIT SETONGKAT
 **📃 CERTIFICATE :**
 
 | EXAM                                   | YEAR    | RESULT            |                                      
-|----------------------------------------|---------|-------------------|
-| UPSR                                   | 2016    | 6A                |
-| PT3                                    | 2019    | 10A               | 
+|----------------------------------------|---------|-------------------| 
 | SPM                                    | 2021    | 8A                | 
 | MUET                                   | 2022    | 3.5               | 
 | MATRICULATION                          | 2023    | 4.00              |       
@@ -66,7 +62,6 @@ _(2011 - 2016)_ - SK PARIT SETONGKAT
 ### Others
 * Canva
 * Capcut
-* Microsoft
 
   <br>
 
@@ -75,7 +70,7 @@ _(2011 - 2016)_ - SK PARIT SETONGKAT
  - [x] e-Portfolio 
  - [x] Case Study: Students Correct Answers
  - [x] Elevator Controller System
- - [ ] Descriptive Statistics
+ - [x] Descriptive Statistics
  - [ ] 2D Graphical Game
        
 <br>
@@ -85,7 +80,7 @@ _(2011 - 2016)_ - SK PARIT SETONGKAT
 <p align="left">
   <a href="https://discord.com/users/tewinkz" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
     </picture>
@@ -109,7 +104,7 @@ _(2011 - 2016)_ - SK PARIT SETONGKAT
   
   <a href="https://www.youtube.com/@firzana1610" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
     </picture>
