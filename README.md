@@ -38,8 +38,9 @@ _(2017 - 2021)_ - SMKA MAAHAD MUAR
 
 - School prefect in primary school (2013-2016)
 - Student figure in primary school (2016)
-- Vice precident in Multimedia Club (2021)
-- Vice precident in volleyball club in matriculation (2023)
+- Class Secretary (2020-2021)
+- Vice president of Multimedia Club in high school(2021)
+- President of volleyball club in matriculation (2023)
 
 <br>
 
