@@ -9,10 +9,12 @@ Hi I'm NUR FIRZANA BINTI BADRUS HISHAM ![](https://user-images.githubusercontent
 <br>
 
 * Academic [e-Portfolio](https://firzanabadrus.github.io/)
+* 🎓 I'm currently studying Computer Science (Data Engineering) with Honours 
 * 📍  I'm based in Johor
 * 📧 You can contact me at [firzanabadrus@gmail.com](mailto:firzanabadrus@gmail.com)
-* 🎓 I'm currently studying Computer Science (Data Engineering) with Honours 
-* 📸 I love taking pictures and videos. 
+* 📸 I love taking pictures and videos.
+* 🔗 If you have any inquiries, [hit me up](https://forms.gle/v2PmePFGhriRVMNr8)
+  
 * 👾  Currently explore : _
   
 <p align="left">
