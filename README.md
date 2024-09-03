@@ -4,16 +4,15 @@ Hi I'm NUR FIRZANA BINTI BADRUS HISHAM ![](https://user-images.githubusercontent
 
 <br>
 
- I am great at working in teams and always up for good cooperation. I love learning new things and picking up new skills. I am pretty good at managing my time, and I like to keep things neat and organized. Right now, I am diving into the world of computer science and enjoying every bit of it !
+ I am great at working in teams and always up for good cooperation. I love learning new things and picking up new skills. I am pretty good at managing my time and I like to keep things neat and organized. Right now, I am diving into the world of computer science and enjoying every bit of it !
  
 <br>
 
-* Academic [e-Portfolio](https://firzanabadrus.github.io/)
+*  📍  I'm based in Muar, Johor
 * 🎓 I'm currently studying Computer Science (Data Engineering) with Honours 
-* 📍  I'm based in Johor
 * 📧 You can contact me at [firzanabadrus@gmail.com](mailto:firzanabadrus@gmail.com)
-* 📸 I love taking pictures and videos.
 * 🔗 If you have any inquiries, [hit me up](https://forms.gle/v2PmePFGhriRVMNr8)
+* 📸 I love taking pictures and videos.
   
 * 👾  Currently explore : _
   
@@ -21,26 +20,29 @@ Hi I'm NUR FIRZANA BINTI BADRUS HISHAM ![](https://user-images.githubusercontent
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
-
+* Academic [e-Portfolio](https://firzanabadrus.github.io/)
 
 <br>
 
 
 **📖 EDUCATION BACKGROUND :**  
 
-_(2023 - now)_ - UNIVERSITY TECHNOLOGY MALAYSIA  
+_(2023 - present)_ - UNIVERSITY TECHNOLOGY MALAYSIA  
 
 _(2022 - 2023)_ - JOHOR MATRICULATION COLLEGE
 
 _(2017 - 2021)_ - SMKA MAAHAD MUAR 
+
+_(2011 - 2016)_ - SK PARIT SETONGKAT 
 
 <br>
 
 **POSITION :**
 
 - School prefect in primary school (2013-2016)
+- Vice head of students (2016)
 - Student figure in primary school (2016)
-- Class Secretary (2020-2021)
+- Class secretary (2020-2021)
 - Vice president of Multimedia Club in high school(2021)
 - President of volleyball club in matriculation (2023)
 
@@ -65,6 +67,7 @@ _(2017 - 2021)_ - SMKA MAAHAD MUAR
 ### Others
 * Canva
 * Capcut
+* Figma
        
 <br>
 
