@@ -8,7 +8,7 @@ Hi I'm NUR FIRZANA BINTI BADRUS HISHAM ![](https://user-images.githubusercontent
  
 <br>
 
-*  📍  I'm based in Muar, Johor
+*  📍  I'm based in Johor
 * 🎓 I'm currently a 2nd year student in Computer Science (Data Engineering) with Honours 
 * 📧 You can contact me at [firzanabadrus@gmail.com](mailto:firzanabadrus@gmail.com)
 * 🔗 If you have any inquiries, [hit me up](https://forms.gle/v2PmePFGhriRVMNr8)
