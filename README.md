@@ -25,24 +25,13 @@ Hi I'm NUR FIRZANA BINTI BADRUS HISHAM ![](https://user-images.githubusercontent
 
 **📖 EDUCATION BACKGROUND :**  
 
-_(2023 - present)_ - UNIVERSITY TECHNOLOGY MALAYSIA  
+_(2023 - present)_ - UNIVERSITI TEKNOLOGI MALAYSIA  
 
 _(2022 - 2023)_ - JOHOR MATRICULATION COLLEGE
 
 _(2017 - 2021)_ - SMKA MAAHAD MUAR 
 
-_(2011 - 2016)_ - SK PARIT SETONGKAT 
 
-<br>
-
-**POSITION :**
-
-- School prefect in primary school (2013-2016)
-- Vice head of students (2016)
-- Student figure in primary school (2016)
-- Class secretary (2020-2021)
-- Vice president of Multimedia Club in high school(2021)
-- President of volleyball club in matriculation (2023)
 
 <br>
 
