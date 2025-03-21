@@ -12,7 +12,6 @@ I thrive in team environments and value strong cooperation. I enjoy learning new
 * 📧 You can contact me at [firzanabadrus@gmail.com](mailto:firzanabadrus@gmail.com)
 * 🔗 If you have any inquiries, [hit me up](https://forms.gle/v2PmePFGhriRVMNr8)
 * 📸 I love taking pictures and videos.
-  
 * 👾  Currently explore : _
   
 <p align="left">
@@ -21,7 +20,6 @@ I thrive in team environments and value strong cooperation. I enjoy learning new
 
 <br>
 
-
 **📖 EDUCATION BACKGROUND :**  
 
 _(2023 - present)_ - UNIVERSITI TEKNOLOGI MALAYSIA  
@@ -29,8 +27,6 @@ _(2023 - present)_ - UNIVERSITI TEKNOLOGI MALAYSIA
 _(2022 - 2023)_ - JOHOR MATRICULATION COLLEGE
 
 _(2017 - 2021)_ - SMKA MAAHAD MUAR 
-
-
 
 <br>
 
@@ -42,13 +38,11 @@ _(2017 - 2021)_ - SMKA MAAHAD MUAR
 | MUET                                   | 2022    | 3.5               | 
 | MATRICULATION                          | 2023    | 4.00              |       
 
-
 ### Skills
   
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 </p>
-
 
 ### Others
 * Canva
@@ -58,15 +52,6 @@ _(2017 - 2021)_ - SMKA MAAHAD MUAR
 <br>
 
 ### Socials
-
-<p align="left">
-  <a href="https://discord.com/users/tewinkz" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-    </picture>
-  </a>
   
   <a href="https://www.github.com/firzanabadrus" target="_blank" rel="noreferrer">
     <picture>
@@ -76,15 +61,23 @@ _(2017 - 2021)_ - SMKA MAAHAD MUAR
     </picture>
   </a>
   
-  <a href="https://www.linkedin.com/in/nur-firzana1610" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/nur-firzanabadrus" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </picture>
   </a>
+
+   <a href="https://www.instagram.com/@firzanabadrus" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+    </picture>
+  </a> 
   
-  <a href="https://www.youtube.com/@firzana1610" target="_blank" rel="noreferrer">
+  <a href="https://www.youtube.com/@firzanabadrus" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
@@ -92,8 +85,15 @@ _(2017 - 2021)_ - SMKA MAAHAD MUAR
     </picture>
   </a>
 
+  <a href="https://discord.com/users/noelpj" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+    </picture>
+  </a>
+
  <p align="left">
-  <!-- ... (existing social media icons) ... -->
 
 <br>
 
