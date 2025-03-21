@@ -1,15 +1,14 @@
-Hi I'm NUR FIRZANA BINTI BADRUS HISHAM ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi I'm Nur Firzana Binti Badrus Hisham ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================================================================================================
-> Computer Science student at [Universiti Teknologi Malaysia](https://www.utm.my/)
+> Computer Science student (Data Engineering) student at [Universiti Teknologi Malaysia](https://www.utm.my/)
 
 <br>
 
- I am great at working in teams and always up for good cooperation. I love learning new things and picking up new skills. I am pretty good at managing my time and I like to keep things neat and organized. Right now, I am diving into the world of computer science and enjoying every bit of it !
+I thrive in team environments and value strong cooperation. I enjoy learning new things and picking up new skills. Time management is one of my strengths, and I like to keep things neat and organized.
  
 <br>
 
 *  📍  I'm based in Johor
-* 🎓 I'm currently a 2nd year student in Computer Science (Data Engineering) with Honours 
 * 📧 You can contact me at [firzanabadrus@gmail.com](mailto:firzanabadrus@gmail.com)
 * 🔗 If you have any inquiries, [hit me up](https://forms.gle/v2PmePFGhriRVMNr8)
 * 📸 I love taking pictures and videos.
@@ -39,7 +38,7 @@ _(2017 - 2021)_ - SMKA MAAHAD MUAR
 
 | EXAM                                   | YEAR    | RESULT            |                                      
 |----------------------------------------|---------|-------------------| 
-| SPM                                    | 2021    | 8A                | 
+| SPM                                    | 2021    | 8A 4B             | 
 | MUET                                   | 2022    | 3.5               | 
 | MATRICULATION                          | 2023    | 4.00              |       
 
