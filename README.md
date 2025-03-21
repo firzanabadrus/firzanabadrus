@@ -69,7 +69,7 @@ _(2017 - 2021)_ - SMKA MAAHAD MUAR
     </picture>
   </a>
 
-   <a href="https://www.instagram.com/@firzanabadrus" target="_blank" rel="noreferrer">
+   <a href="https://www.instagram.com/firzanabadrus" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
