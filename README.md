@@ -61,7 +61,7 @@ _(2017 - 2021)_ - SMKA MAAHAD MUAR
     </picture>
   </a>
   
-  <a href="https://www.linkedin.com/in/nur-firzanabadrus" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/firzanabadrus" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
