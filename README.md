@@ -1,6 +1,6 @@
 Hi I'm Nur Firzana Binti Badrus Hisham ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================================================================================================
-> Computer Science (Data Engineering) student at [Universiti Teknologi Malaysia](https://www.utm.my/)
+> Bachelor of Computer Science (Data Engineering) student at [Universiti Teknologi Malaysia](https://www.utm.my/)
 
 <br>
 
@@ -36,7 +36,6 @@ _(2017 - 2021)_ - SMKA MAAHAD MUAR
 | EXAM                                   | YEAR    | RESULT            |                                      
 |----------------------------------------|---------|-------------------| 
 | SPM                                    | 2021    | 8A 4B             | 
-| MUET                                   | 2022    | 3.5               | 
 | MATRICULATION                          | 2023    | 4.00              |       
 
 ### Skills
@@ -70,21 +69,6 @@ _(2017 - 2021)_ - SMKA MAAHAD MUAR
     </picture>
   </a>
 
-   <a href="https://www.instagram.com/firzanabadrus" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-    </picture>
-  </a> 
-  
-  <a href="https://www.youtube.com/@firzanabadrus" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
-    </picture>
-  </a>
 
  <p align="left">
 
