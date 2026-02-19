@@ -77,8 +77,14 @@ _(2017 - 2021)_ - SMKA MAAHAD MUAR
 <details>
 <summary>Click for GitHub Stats</summary>
 
-<a href="https://github.com/firzanabadrus" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firzanabadrus&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="http://www.github.com/firzanabadrus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=firzanabadrus&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+  <a href="https://github.com/firzanabadrus">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firzanabadrus&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
+  </a>
+ 
+  <a href="https://github.com/firzanabadrus">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=firzanabadrus&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 </details>
