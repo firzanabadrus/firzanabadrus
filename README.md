@@ -1,6 +1,6 @@
 # Hi, I'm Nur Firzana Binti Badrus Hisham  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-### 🎓 Data Engineering Student at Universiti Teknologi Malaysia
+### 🎓 Computer Science (Data Engineering) Student at Universiti Teknologi Malaysia
 📍 *Based in Johor, Malaysia*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firzanabadrus) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:firzanabadrus@gmail.com) [![Inquiries](https://img.shields.io/badge/Inquiries-Get_in_Touch-22c55e?style=flat)](https://forms.gle/v2PmePFGhriRVMNr8)
