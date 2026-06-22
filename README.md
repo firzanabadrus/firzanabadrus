@@ -3,7 +3,21 @@
 ### 🎓 Computer Science (Data Engineering) Student at Universiti Teknologi Malaysia
 📍 *Based in Johor, Malaysia*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firzanabadrus) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:firzanabadrus@gmail.com) [![Inquiries](https://img.shields.io/badge/Inquiries-Get_in_Touch-22c55e?style=flat)](https://forms.gle/v2PmePFGhriRVMNr8)
+<div align="left">
+  <a href="mailto:firzanabadrus@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35"/>
+  </a>
+  <a href="https://www.linkedin.com/in/firzanabadrus/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />
+  </a>
+  <a href="https://drive.google.com/file/d/1a-BF6D_sq8JGQfhO1-Nej5Ip4hhBJ4Vz/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" height="35" />
+  </a>
+  <a href="https://forms.gle/v2PmePFGhriRVMNr8" target="_blank">
+    <img src="https://img.shields.io/badge/Inquiries-181717?style=for-the-badge&logo=googleforms&logoColor=white" alt="Inquiries" height="35" />
+  </a>
+
+</div>
 
 ---
 
