@@ -71,9 +71,8 @@ I am a Bachelor of Computer Science (Data Engineering) student who thrives in bu
 
 <p align="center">
   <a href="https://github.com/firzanabadrus">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firzanabadrus&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Top Languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=firzanabadrus&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&include_forks=true" alt="Top Languages" />
   </a>
-  <br><br>
   <a href="https://github.com/firzanabadrus">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=firzanabadrus&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
   </a>
