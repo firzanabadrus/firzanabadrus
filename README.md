@@ -31,7 +31,7 @@ I am a Bachelor of Computer Science (Data Engineering) student who thrives in bu
 
 > 📸 Outside of tech, I have a passion for capturing moments through photography and video editing.
 
-> 📚 Check out my academic & learning repository here: [SECPH Resource Drive](https://drive.google.com/drive/folders/1HS88Q6q-EERnx96dW9yvaAdxGdTnrPhV?usp=sharing)
+> 📚 Check out my academic & learning repository here: [SECPH Resource Drive](https://drive.google.com/drive/folders/1XEb3K0UD-OSem83ET3k_Y1Lm57YzCgm_MAw3U6Jqcp-xdp8UAIXPmcPCYS_DGW6zrrgrexRE?usp=sharing)
 
 ---
 
